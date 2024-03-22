@@ -1,0 +1,6 @@
+googlesearch-python
+langchain-community
+langchain-core
+langchain
+sentence-transformers
+faiss-cpu

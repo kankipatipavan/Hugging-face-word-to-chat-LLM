@@ -1,0 +1,28 @@
+
+What are the responsibilities of a Data Analyst?
+
+Some of the responsibilities of a data analyst include:
+Collects and analyzes data using statistical techniques and reports the results accordingly.
+Interpret and analyze trends or patterns in complex data sets.
+Establishing business needs together with business teams or management teams.
+Find opportunities for improvement in existing processes or areas.
+Data set commissioning and decommissioning.
+Follow guidelines when processing confidential data or information.
+Examine the changes and updates that have been made to the source production systems.
+Provide end-users with training on new reports and dashboards.
+Assist in the data storage structure, data mining, and data cleansing.
+
+Write some key skills usually required for a data analyst ?
+
+Some of the key skills required for a data analyst include:
+Knowledge of reporting packages (Business Objects), coding languages (e.g., XML,
+JavaScript, ETL), and databases (SQL, SQLite, etc.) is a must.
+Ability to analyze, organize, collect, and disseminate big data accurately and efficiently.
+The ability to design databases, construct data models, perform data mining, and segment
+data.
+Good understanding of statistical packages for analyzing large datasets (SAS, SPSS,
+Microsoft Excel, etc.).
+Effective Problem-Solving, Teamwork, and Written and Verbal Communication Skills.
+Excellent at writing queries, reports, and presentations.
+Understanding of data visualization software including Tableau and Qlik.
+The ability to create and apply the most accurate algorithms to datasets for finding solutions.
